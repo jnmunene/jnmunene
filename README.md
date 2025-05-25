@@ -6,8 +6,6 @@ I'm a cybersecurity professional specializing in **offensive security**. With a 
 - Develop detections and respond to real-world threats
 - Explore adversary tactics, techniques, and procedures (TTPs)
 
-I thrive at the intersection of offense and defense, thinking like an attacker to help strengthen systems from the inside out.
-
 ## Sharing Knowledge
 I enjoy distilling complex security concepts into practical insights. My blog covers:
 - CTF walkthroughs
