@@ -1,5 +1,5 @@
-## Hi there, I'm John Munene 👋
-I'm a cybersecurity professional specializing in **offensive security**. With a background in Informatics and Computer Science, I have a solid understanding of how systems work — and how they can be broken.
+## Hi, I'm John Munene 
+I'm a cybersecurity professional specializing in **offensive security**. With a background in Informatics and Computer Science, I have a solid understanding of how systems work, and how they can be broken.
 
 ## What I Do
 - Simulate attacks to test and improve organizational defenses
